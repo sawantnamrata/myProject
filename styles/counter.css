@@ -1,0 +1,22 @@
+
+.container{
+    margin : 10px;
+}
+.parent_time {
+    margin: 0px 5px;
+}
+.child_time0{
+    background : #f39a3f;
+    
+    border-radius: 5px 0px 0px 5px;
+}
+.child_time1{
+    background : #ff7c0c;
+    border-radius: 0px 5px 5px 0px;
+}
+.child_time{
+    float : left;
+    color : #FFF;
+    padding: 6px;
+    margin : 0px;
+}
